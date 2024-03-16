@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/irem gül bayraktaroğlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem gül bayraktaroğlu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/irem-gul-bayraktarıglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irem gül bayraktaroğlu" height="30" width="40" /></a>
 <a href="https://kaggle.com/iremgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iremgul" height="30" width="40" /></a>
 <a href="https://medium.com/@bayraktarogluiremgul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bayraktarogluiremgul" height="30" width="40" /></a>
 </p>
