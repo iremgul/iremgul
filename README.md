@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQE_E_Ibwppgdw/article-cover_image-shrink_600_2000/0/1610415813134?e=2147483647&v=beta&t=uzmeQOZtCriCxXi_xBkXREeYw77IpaKYF33G8fzj4sU)
+                         [![MasterHead](https://media.licdn.com/dms/image/C4E12AQE_E_Ibwppgdw/article-cover_image-shrink_600_2000/0/1610415813134?e=2147483647&v=beta&t=uzmeQOZtCriCxXi_xBkXREeYw77IpaKYF33G8fzj4sU)
 <h1 align="center">Hi 👋, I'm İrem Gül Bayraktaroğlu</h1>
 <h3 align="center">I'm a passionate engineer from Türkiye</h3>
 
