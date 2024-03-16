@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C4E12AQE_E_Ibwppgdw/article-cover_image-shrink_600_2000/0/1610415813134?e=2147483647&v=beta&t=uzmeQOZtCriCxXi_xBkXREeYw77IpaKYF33G8fzj4sU)
+[![MasterHead](https://www.mahindrauniversity.edu.in/wp-content/uploads/2023/04/MU_Electrical20Computer20Engineering_1140x4601.jpg)
 <h1 align="center">Hi 👋, I'm İrem Gül Bayraktaroğlu</h1>
 <h3 align="center">I'm a passionate engineer from Türkiye</h3>
 
