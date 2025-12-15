@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm İrem Gül Bayraktaroğlu</h1>
 <h3 align="center">I'm a passionate engineer from Türkiye</h3>
 
-- 🌱 I’m currently learning **Data Science & Cyber Security**
+- 🌱 I’m currently learning **Network Technologies & Cyber Security**
 
 - 📫 How to reach me **iremgulbayraktaroglu@gmail.com**
 
