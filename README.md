@@ -1,4 +1,4 @@
-![MasterHead](https://www.mahindrauniversity.edu.in/wp-content/uploads/2023/04/MU_Electrical20Computer20Engineering_1140x4601.jpg)
+<!-- ![MasterHead](https://www.mahindrauniversity.edu.in/wp-content/uploads/2023/04/MU_Electrical20Computer20Engineering_1140x4601.jpg) -->
 <h1 align="center">Hi 👋, I'm İrem Gül Bayraktaroğlu</h1>
 <h3 align="center">I'm a passionate engineer from Türkiye</h3>
 
